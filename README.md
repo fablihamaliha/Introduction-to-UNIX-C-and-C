@@ -1,2 +1,2 @@
-# Introduction-to-UNIX-C-and-C-
-Course Assignment 
+# Introduction-to-UNIX-C-and-C
+Course Assignments- C and shell
